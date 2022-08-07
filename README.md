@@ -5,6 +5,7 @@
 + **You can reach me in my crypto channel in Telegram:** https://t.me/Cryptomorfosis_Channel
 
 ### My activites
++ [Aptos](https://aptoslabs.com/) - Coordinator
 + [Moonwell](https://moonwell.fi/) - Senior Ambassador, Moderator
 + [XDAO](https://www.xdao.app/) - Grand Ambassador
 + [HoneyWood](https://honeywood.io/) - Ambassador
