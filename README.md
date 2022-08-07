@@ -1,13 +1,15 @@
-- 👋 Hi, I’m Metamorfosis
-- 👀 I’m CM, Ambassador, Content Creator, Nodes runner
-- and member Ambassadors Crew https://ambassadors.school/
-- 🌱 I’m currently learning blockchain technology
-- 💞️ I’m looking to collaborate on with interesting blockchain projects that want to change the current state of the world and bring something new.
-- 📫 You can reach me:
-- my crypto channel in Telegram: https://t.me/Cryptomorfosis_Channel
-- twitter: https://twitter.com/meta_morfos_is
+## Hello, I’m Metamorfosis
+### CM, Ambassador, Content Creator, Nodes runner
+**I'm a member Ambassadors Crew** https://ambassadors.school/
++ I’m looking to collaborate on with interesting blockchain projects that want to change the current state of the world and bring something new. And also I’m currently learning blockchain technology.
++ **You can reach me in my crypto channel in Telegram:** https://t.me/Cryptomorfosis_Channel
 
-<!---
-Metamorfosisgit/Metamorfosisgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### My activites
++ [Moonwell](https://moonwell.fi/) - Senior Ambassador, Moderator
++ [XDAO](https://www.xdao.app/) - Grand Ambassador
++ [HoneyWood](https://honeywood.io/) - Ambassador
++ [Pontem](https://pontem.network/) - Ambassador
++ [Massa](https://massa.net/) - Supporter
+
+### My nodes
++ [Massa](https://massa.net/)
