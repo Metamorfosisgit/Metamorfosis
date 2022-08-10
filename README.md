@@ -14,3 +14,5 @@
 
 ### My nodes
 + [Massa](https://massa.net/)
++ [Masa](https://www.masa.finance/)
++ [Minima](https://www.minima.global/)
