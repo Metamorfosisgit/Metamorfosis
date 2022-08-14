@@ -22,7 +22,7 @@
 ### My nodes
 + [Massa](https://massa.net/) - [screenshot](https://user-images.githubusercontent.com/110761667/184528024-9cd4a412-22bf-4a01-a5f2-f735604aad73.jpg)
 + [Masa](https://www.masa.finance/) - [screenshot](https://user-images.githubusercontent.com/110761667/184528127-52a2e029-c456-4ca3-a6a4-0118e343d23a.jpg)
-+ [Minima](https://www.minima.global/)
-+ [Sui](https://sui.io/)
++ [Sui](https://sui.io/) - [screenshop](https://user-images.githubusercontent.com/110761667/184547802-b91c4771-3040-48e0-a6ae-0c11b56145bd.jpg)
+
 
 
